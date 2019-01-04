@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83e83fe1-2f56-45c3-8975-4680cfc09447" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/4_Seaborn/3_titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Seaborn/3_titanic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Seaborn/1_tips.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="527">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="e#41#72#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -49,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Seaborn/2_irisFlowers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="136">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#29#50#0" expanded="true" />
@@ -58,14 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Seaborn/3_titanic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#31#62#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_Matplotlib/7_PieChart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -130,6 +136,21 @@
             <path>
               <item name="DataAnalysisPart1" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataAnalysisPart1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysisPart1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysisPart1" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysisPart1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysisPart1" type="462c0819:PsiDirectoryNode" />
+              <item name="3_Matplotlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysisPart1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysisPart1" type="462c0819:PsiDirectoryNode" />
+              <item name="4_Seaborn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,23 +309,23 @@
       <option name="presentableId" value="Default" />
       <updated>1546455064177</updated>
       <workItem from="1546455066029" duration="4808000" />
-      <workItem from="1546460543859" duration="12972000" />
+      <workItem from="1546460543859" duration="13353000" />
+      <workItem from="1546575199707" duration="1381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17780000" />
+    <option name="totallyTimeSpent" value="19542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18330605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18330605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,13 +347,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3_Pandas/data_frames/DAT.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Pandas/data_frames/DAT.ipynb" />
     <entry file="file://$PROJECT_DIR$/1_Numpy/0_Introduction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -426,12 +441,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_Matplotlib/tempvssales_coffee.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Matplotlib/tempvssales_coffee.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Matplotlib/tempvssales_coffee.png" />
+    <entry file="file://$PROJECT_DIR$/3_Matplotlib/tempvssales_coffee.jpeg" />
     <entry file="file://$PROJECT_DIR$/3_Matplotlib/1_SimplePlot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -474,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_Matplotlib/7_PieChart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_Seaborn/tips.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3779">
@@ -504,17 +508,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Seaborn/1_tips.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="527">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#41#72#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Seaborn/2_irisFlowers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="136">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#29#50#0" expanded="true" />
@@ -524,11 +525,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Seaborn/3_titanic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#31#62#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Matplotlib/7_PieChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
